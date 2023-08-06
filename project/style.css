@@ -1,0 +1,52 @@
+.img{
+   margin-top:50px !important ;
+   border:1px solid white !important ;
+}
+.rounded-start{
+   border-radius: 10px;
+}
+
+.abc{
+   text-align: center;
+   margin-top: 50px;
+}
+.abc1{
+   text-align: center;
+   margin-top: 30px; 
+}
+.img-fluid {
+   align-items: center !important;
+   margin-top: 30px !important;
+}
+.container{
+   margin-top: 20px ;
+}
+.bot{
+   font-weight: bolder;
+}
+.h3{
+   text-align: center !important;
+}
+
+/* .rounded-start{
+   margin-left: 50px !important;
+   margin-top: 0.1px !important;
+} */
+.h-custom{
+   margin-top: 100px !important;
+}
+.logn{
+   margin-top:100px !important ;
+   color: rgb(54, 54, 100) !important;
+}
+.navbar{
+   
+   position: fixed !important;
+   top:0px ;
+   width: 100%;
+   z-index: 1000;
+   
+}
+.forget{
+   align-items: center !important;
+}
