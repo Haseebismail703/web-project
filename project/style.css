@@ -60,5 +60,5 @@
 .navbar-brand:hover{
     transform: scale(1.2);
     transition-duration: 2s;
-    /* transition-delay: 1s; */
+    
 }
