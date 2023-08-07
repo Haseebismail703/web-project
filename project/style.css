@@ -50,3 +50,15 @@
 .forget{
    align-items: center !important;
 }
+
+.nav-link:hover{
+    background-color: aquamarine;
+    color: antiquewhite;
+    border-radius: 10px;
+
+}
+.navbar-brand:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+    /* transition-delay: 1s; */
+}
